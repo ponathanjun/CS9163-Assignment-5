@@ -1,3 +1,4 @@
+/*
 package edu.nyu.appsec.assignment5;
 
 import android.content.BroadcastReceiver;
@@ -49,3 +50,4 @@ public class SMSReceiver extends BroadcastReceiver {
         }
     }
 }
+*/
